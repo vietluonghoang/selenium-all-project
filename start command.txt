@@ -1,0 +1,3 @@
+java -jar D:\QA\Tool\Selenium\selenium-server-standalone-2.33.0.jar -Dwebdriver.ie.driver=.\IEDriverServer32.exe
+
+java -jar D:\QA\Tool\Selenium\selenium-server-standalone-2.33.0.jar -interactive
